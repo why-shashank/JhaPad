@@ -1,2 +1,2 @@
 # JhaPad
-A command line code editor built in Rust 
+A command line code editor getting built in Rust 
